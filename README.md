@@ -1,7 +1,6 @@
 ### Olá, meu nome é Gabrielle Marchioli e tenho 19 anos! 😄
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.marchioli_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabrielle-marchioli-a47155245)
 
 ![Gabrielle GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielleMarchioli&show_icons=true&theme=dracula)
 
