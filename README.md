@@ -2,8 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.marchioli_/)
 
-![Gabrielle GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielleMarchioli&show_icons=true&theme=dracula)
-
 [![Linguagens mais utilizadas por mim:](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleMarchioli&layout=compact)](https://github.com/GabrielleMarchioli/github-readme-stats)
 
 ## Tecnologias:
