@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabrielle Marchioli e tenho 20 anos! Sou estudante de engenharia da computação no centro universitáro facens😄
+### Olá, meu nome é Gabrielle Marchioli e tenho 20 anos! Sou estudante de engenharia da computação no centro universitáro facens e estágiaria em engenharia de dados na IBM😄
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.marchioli_/)
 
