@@ -15,4 +15,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/GabrielleMarchioli/GabrielleMarchioli/output/snake.svg" alt="Snake animation" />
+
+###
 
