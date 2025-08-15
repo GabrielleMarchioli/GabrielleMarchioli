@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabrielle e tenho 21 anos! Sou estudante de engenharia da computação no centro universitáro facens(Bolsista PROUNI) e engenheira de dados plena na IBM consulting Brasil, já atuei pela VALE e Atualmente estou no Banco do Brasil. Sou formada pela Etec Fernando Prestes em Desenvolvimento de sistemas e VIVO tecnologia desde 2020.
+### Olá, meu nome é Gabrielle e tenho 22 anos! Sou estudante de engenharia da computação no centro universitáro facens(Bolsista PROUNI) e engenheira de dados plena na IBM consulting Brasil, já atuei pela VALE e Atualmente estou no Banco do Brasil. Sou formada pela Etec Fernando Prestes em Desenvolvimento de sistemas e VIVO tecnologia desde 2020.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.marchioli_/)
 
