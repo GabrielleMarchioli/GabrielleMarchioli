@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabrielle e tenho 22 anos! Sou estudante de engenharia da computação no centro universitáro facens(Bolsista PROUNI) e engenheira de dados JR. Já atuei na IBM Brasil, nos clientes VALE e Banco do Brasil
+### Olá, meu nome é Gabrielle e tenho 23 anos! Sou estudante de engenharia da computação no centro universitáro facens(Bolsista PROUNI) e engenheira de dados JR. Já atuei na IBM Brasil, nos clientes VALE e Banco do Brasil
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabi.marchioli_/)
 
